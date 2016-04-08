@@ -1,8 +1,8 @@
 #HX711 raw reading library for ESP-8266
 
-Works with Arduino IDE for ESP-8266.
+Works with Arduino IDE for ESP-8266. Learn more about [installing Arduino Libraries](https://www.arduino.cc/en/Guide/Libraries).
 
-Initially based on code from [http://freedom2000.free.fr]()
+Initially based on code from [http://freedom2000.free.fr](). Read the original author's [post at esp8266.com](http://www.esp8266.com/viewtopic.php?f=29&t=4100).
 
 #### HX711  Strain gauge wiring
 
