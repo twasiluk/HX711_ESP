@@ -1,0 +1,17 @@
+{
+    "name": "HX711_ESP",
+    "keywords": "hx711, scale, weight, esp8266",
+    "description": "Arduino/ESP8266 library to interface the HX711 24-Bit Analog-to-Digital Converter (ADC) for Weight Scales",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/twasiluk/HX711_ESP"
+    },
+    "version": "0.1",
+    "exclude": "tests",
+    "examples": "examples/*/*.ino",
+    "frameworks": "arduino",
+    "platforms": [
+        "atmelavr",
+        "espressif"
+    ]
+}
